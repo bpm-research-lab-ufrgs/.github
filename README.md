@@ -48,7 +48,7 @@ Repositórios públicos podem ser utilizados para fins de pesquisa, ensino e div
 
 Notícias, eventos e atividades do laboratório também são divulgados pelo Instagram oficial:
 
-🔗 **Instagram:** https://www.instagram.com/SEU_USUARIO_AQUI
+🔗 **Instagram:** [https://www.instagram.com/bpm_research_lab_ufrgs/](https://www.instagram.com/bpm_research_lab_ufrgs/)
 
 ---
 
@@ -97,4 +97,4 @@ Public repositories may also support research dissemination, education, and outr
 
 News, events, and lab activities are also shared via the official Instagram account:
 
-🔗 **Instagram:** https://www.instagram.com/SEU_USUARIO_AQUI
+🔗 **Instagram:** [https://www.instagram.com/SEU_USUARIO_AQUI](https://www.instagram.com/bpm_research_lab_ufrgs/)
