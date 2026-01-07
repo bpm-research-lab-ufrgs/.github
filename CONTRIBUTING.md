@@ -1,4 +1,4 @@
-# Contributing Guidelines | Diretrizes de Contribuição
+# Diretrizes de Contribuição | Contributing Guidelines 
 
 ## 🇧🇷 Português
 
