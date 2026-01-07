@@ -97,4 +97,4 @@ Public repositories may also support research dissemination, education, and outr
 
 News, events, and lab activities are also shared via the official Instagram account:
 
-🔗 **Instagram:** [https://www.instagram.com/SEU_USUARIO_AQUI](https://www.instagram.com/bpm_research_lab_ufrgs/)
+🔗 **Instagram:** [https://www.instagram.com/bpm_research_lab_ufrgs](https://www.instagram.com/bpm_research_lab_ufrgs/)
